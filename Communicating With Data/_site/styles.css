@@ -1,0 +1,45 @@
+/* css styles */
+.navbar-dark, .quarto-title-banner {
+    background-color: #E6E6FA; /* Light purple (lavender) background color for the banner */
+    color: #D3D3D3; /* White color for text in the banner to ensure readability */
+}
+
+/* Specific targeting for the blog title in the banner to make text black */
+.quarto-title-banner h1,
+.quarto-title-banner h2,
+.quarto-title-banner .title { /* Update this selector based on your HTML structure */
+    color: #000000; /* Black color for the blog title */
+}
+
+/* Navbar links and icons styling */
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-nav .nav-link i {
+    color: #000000  /* Black color for navbar text and icons */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: #333333 !important; /* Slightly lighter black on hover/focus for distinction */
+}
+
+/* Body and headings styling */
+body {
+    font-family: 'Arial', sans-serif; /* Default font for body */
+    color: #333333; /* Dark grey color for body text for better readability */
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif; /* Specific font for headings */
+    color: #333333; /* Keeping headings dark grey for contrast and readability */
+}
+
+/* Styling for category boxes */
+.category-box { /* Replace '.category-box' with the actual class or ID */
+    background-color: #000000; /* Black background for category boxes */
+    color: #D3D3D3; /* White text color for readability */
+}
+
+.navbar-brand {
+    color: #000000 !important; /* This sets the color to black */
+    font-family: 'Georgia', serif;
+}

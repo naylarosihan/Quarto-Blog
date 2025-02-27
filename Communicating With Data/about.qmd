@@ -1,0 +1,20 @@
+---
+title: "About"
+image: profilespic.JPEG
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/nros0021
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nayla-rosihan-9638a3275/
+    - icon: github
+      text: Github
+      href: https://github.com/naylarosihan
+---
+
+Nayla Rosihan\
+\
+I am Nayla Rosihan, a final year business student at Monash University, majoring in Business Statistics and Analytics with a minor in Information Technology. Born in Sydney and raised in Melbourne, I am deeply connected to my Indonesian heritage. As a practicing Muslim, I am committed to community involvement and ethical pursuits. I have a strong passion for exploring new ideas and technologies, which I actively integrate into my dedication to helping non-profit organizations. My academic and personal interests merge to enable me to bring a diverse and innovative perspective to my studies and volunteer efforts.
